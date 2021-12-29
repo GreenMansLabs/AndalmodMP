@@ -1,4 +1,4 @@
-# Andalmod-MP_test11
+# Andalmod MP
 
 Multiplayer version of [Andalmod](https://www.moddb.com/mods/andalmod) by hashashash
 
